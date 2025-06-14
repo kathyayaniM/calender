@@ -1,0 +1,21 @@
+[
+  { "id": "evt0", "title": "Summer Fest Setup", "date": "2024-07-01", "time": "09:00", "duration": 240, "category": "social" },
+  { "id": "evt1", "title": "Team Sync", "date": "2024-07-15", "time": "10:00", "duration": 60, "category": "work" },
+  { "id": "evt2", "title": "Client Call", "date": "2024-07-15", "time": "14:00", "duration": 45, "category": "meeting" },
+  { "id": "evt3", "title": "Project Alpha Review", "date": "2024-07-15", "time": "10:30", "duration": 90, "category": "work" },
+  { "id": "evt4", "title": "Dentist Appointment", "date": "2024-07-17", "time": "11:00", "duration": 60, "category": "personal" },
+  { "id": "evt5", "title": "Yoga Class", "date": "2024-07-17", "time": "18:00", "duration": 75, "category": "personal" },
+  { "id": "evt6", "title": "Design Sprint Kick-off", "date": "2024-07-22", "time": "09:30", "duration": 120, "category": "work" },
+  { "id": "evt7", "title": "Product Demo", "date": "2024-07-24", "time": "15:00", "duration": 60, "category": "meeting" },
+  { "id": "evt8", "title": "Book Club", "date": "2024-07-26", "time": "19:00", "duration": 90, "category": "social" },
+  { "id": "evt9", "title": "Mom's Birthday Dinner", "date": "2024-07-10", "time": "18:30", "duration": 120, "category": "social" },
+  { "id": "evt10", "title": "Quarterly Planning", "date": "2024-07-08", "time": "10:00", "duration": 180, "category": "work" },
+  { "id": "evt11", "title": "Weekend Getaway Prep", "date": "2024-07-12", "time": "16:00", "duration": 120, "category": "personal" },
+  { "id": "evt12", "title": "Grocery Shopping", "date": "2024-07-15", "time": "16:00", "duration": 60, "category": "personal" },
+  { "id": "evt13", "title": "Gym Session", "date": "2024-07-15", "time": "17:30", "duration": 60, "category": "personal" },
+  { "id": "evt14", "title": "Movie Night", "date": "2024-07-15", "time": "20:00", "duration": 120, "category": "social" },
+  { "id": "evt15", "title": "August Project Start", "date": "2024-08-01", "time": "10:00", "duration": 60, "category": "work" },
+  { "id": "evt16", "title": "June Wrap-up Meeting", "date": "2024-06-28", "time": "14:00", "duration": 90, "category": "meeting" },
+  { "id": "evt17", "title": "Coffee with Sarah", "date": "2024-07-03", "time": "09:00", "duration": 60, "category": "social" },
+  { "id": "evt18", "title": "Important Deadline", "date": "2024-07-31", "time": "17:00", "duration": 30, "category": "important" }
+]
